@@ -73,6 +73,8 @@ a:hover {
 	text-align: center;
 }
 
+
+
 /*!
  * 5374.jpについて
  */
@@ -82,7 +84,7 @@ a:hover {
 	display: block;
 	margin: 0;
 	text-align: left;
-	font-size: 23px;
+	font-size: 20px;
 	margin: 15px 0 15px 15px;
 }
 #accordion3 a.accordion-toggle-top:hover {
@@ -114,6 +116,19 @@ a:hover {
 }
 #accordion3 #help {
 	margin-left: 5px;
+}
+
+#help{
+	margin-left: 5px;
+	color: #2c3e50;
+}
+#help p{
+	color: #34495e;
+	font-size: 10px;
+}
+#help li{
+	list-style: none;
+	color: #2c3e50;
 }
 
 /*!
